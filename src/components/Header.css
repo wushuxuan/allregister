@@ -1,0 +1,39 @@
+.Header{
+    width:100%;padding:20px 0 10px;background:#000;box-shadow:0 5px 8px rgba(0,21,41,0.3)
+}
+h2{font-weight:bold;}
+h2,h4{
+    color:#fff;text-align:center;
+}
+h4{
+    padding:0px !important;color:#aaa;
+}
+/*描述*/
+.Decribe{
+    width:100%;background:#fff;position:relative;z-index:-1;
+}
+.Decribe ul{
+    width:100% !improtant;padding:5px 0px 10px !important;margin-bottom:0px !important;list-style:none;
+}
+.Decribe ul li{
+    width:95%;margin:2px auto;font-size:14px;
+}
+
+/*footer*/
+.Footer{
+    width:100%;
+}
+.Footer ul{
+    width:100% !improtant;padding:5px 0px 10px !important;margin-bottom:0px !important;list-style:none;
+}
+.Footer ul li{
+    width:95%;margin:2px auto;font-size:14px;
+}
+
+/*选择平台*/
+.ant-checkbox-group{
+    padding-left:15px;padding-bottom:5px;margin:0 auto !important;
+}
+.ant-checkbox-group-item{
+    margin-bottom:10px;
+}

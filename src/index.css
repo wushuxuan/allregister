@@ -1,0 +1,48 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  font-size:16px;
+  font-family: sans-serif;
+  background:#f5f5f9;
+  width:100%;
+  overflow-x:hidden;
+}
+.basicInformation .am-list-header,
+.driverLicense .am-list-header{
+  color:red !important;
+}
+.driverLicense .am-input-label-5{
+  width:120px !important;
+}
+.Header{
+  width:100%;padding:5% 0 3%;background:#000;box-shadow:0 5px 8px rgba(0,21,41,0.3)
+}
+h2{font-weight:bold;}
+h2,h4{
+  color:#fff;text-align:center;
+}
+
+/*描述*/
+.Decribe{
+  width:100%;background:#fff;position:relative;z-index:-1;
+}
+.Decribe ul{
+  width:100% !improtant;padding:10px 0px 10px !important;margin-bottom:0px !important;
+}
+.Decribe ul li{
+  width:95%;margin:2px auto;font-size:16px;color:#000;list-style:none;
+}
+
+/*footer*/
+.Footer{
+  width:100%;
+}
+.Footer ul{
+  width:100% !improtant;padding:5px 0px 10px !important;margin-bottom:0px !important;
+}
+.Footer ul li {
+  width: 95%;
+  margin: 2px auto;
+  font-size: 16px;
+}
